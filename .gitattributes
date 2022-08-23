@@ -1,4 +1,5 @@
 *.cpp linguist-detectable=false
 *.cmake linguist-detectable=false
-static/* linguist-vendored
 *.dart linguist-detectable=true
+windows/* linguist-vendored
+linux/* linguist-vendored
