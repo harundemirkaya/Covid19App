@@ -1,3 +1,4 @@
 *.cpp linguist-detectable=false
 *.cmake linguist-detectable=false
+static/* linguist-vendored
 *.dart linguist-detectable=true
